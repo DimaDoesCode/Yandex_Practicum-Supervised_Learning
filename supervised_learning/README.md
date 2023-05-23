@@ -22,7 +22,7 @@ Target feature:
 ## Task
 We need to forecast whether a customer will leave the bank in the near future or not.
 
-<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Supervised_Learning/raw/master/supervised_learning\supervised_learning.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Supervised_Learning/raw/master/supervised_learning/supervised_learning.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
 
 ## Libraries used
 <i>json, numpy, pandas, seaborn, sys, warnings, imblearn, csv, io, itertools, joblib, matplotlib, os, requests, scipy, sklearn, urllib</i>
